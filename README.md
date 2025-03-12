@@ -4,31 +4,6 @@
 <h2> 📝 Project Overview</h2>
 <p>Pathik.com is a travel website that provides users with comprehensive details about destinations, booking integration, personalized suggestions, and a built-in trip planner. With real-time customer reviews, local insights, and 24/7 customer support, Pathik.com ensures a seamless travel experience.</p>
 
-<h2> Screenshots</h2>
-<p>Here are some screenshots of the website:</p>
-<ul>
-  <li><strong>Homepage:</strong></li>
-  <img src="https://your-image-host.com/homepage.png" alt="Homepage Screenshot" width="600"/>
-  
-  <li><strong>Destination Details:</strong></li>
-  <img src="https://your-image-host.com/destination.png" alt="Destination Details Screenshot" width="600"/>
-  
-  <li><strong>Booking Page:</strong></li>
-  <img src="https://your-image-host.com/booking.png" alt="Booking Page Screenshot" width="600"/>
-</ul>
-
-<h2> 🗂 Features</h2>
-<ul>
-  <li><strong>User-Friendly Interface:</strong> A clean and easy-to-navigate design.</li>
-  <li><strong>Destination Details:</strong> Comprehensive information on top attractions, cultural highlights, and travel tips.</li>
-  <li><strong>Personalized Suggestions:</strong> AI-driven recommendations based on user preferences.</li>
-  <li><strong>Booking Integration:</strong> Users can book activities directly from the website.</li>
-  <li><strong>Trip Planner:</strong> A built-in tool to create step-by-step travel itineraries.</li>
-  <li><strong>Customer Reviews and Ratings:</strong> Travelers can share and read reviews.</li>
-  <li><strong>Local Insights:</strong> Discover hidden gems, local events, and cultural experiences.</li>
-  <li><strong>24/7 Customer Support:</strong> Round-the-clock assistance for bookings and queries.</li>
-</ul>
-
 <h2>🚀 Getting Started</h2>
 
 <h3>💻 How to Run This Project</h3>
@@ -61,6 +36,38 @@ npm start</code></pre>
   <li><strong>Database:</strong> MongoDB</li>
   <li><strong>Other:</strong> JWT for authentication, Mongoose for database modeling</li>
 </ul>
+<h2> Screenshots</h2>
+<p>Here are some screenshots of the website:</p>
+<ul>
+  <li><strong>Homepage:</strong></li>
+  <img src="Screenshot 2025-03-12 200625.png" alt="Homepage Screenshot" width="300"/>
+  
+  <li><strong>Booking Page:</strong></li>
+  <img src="WhatsApp Image 2025-03-12 at 8.03.10 PM (1).jpeg" alt="Destination Details Screenshot" width="300"/>
+  
+  <li><strong>Review:</strong></li>
+  <img src="Screenshot 2025-03-12 200712.png" alt="Booking Page Screenshot" width="300"/>
 
-<h2>🤝 Contributions</h2>
-<p>Feel free to contribute, raise issues 🛠️, or suggest features 🚀 by submitting a pull request! ✨</p>
+   <li><strong>Destination Page:</strong></li>
+  <img src="WhatsApp Image 2025-03-12 at 8.03.10 PM.jpeg" alt="Destination Details Screenshot" width="300"/>
+</ul>
+
+<h2> 🗂 Features</h2>
+<ul>
+  <li><strong>User-Friendly Interface:</strong> A clean and easy-to-navigate design.</li>
+  <li><strong>Destination Details:</strong> Comprehensive information on top attractions, cultural highlights, and travel tips.</li>
+  <li><strong>Personalized Suggestions:</strong> AI-driven recommendations based on user preferences.</li>
+  <li><strong>Booking Integration:</strong> Users can book activities directly from the website.</li>
+  <li><strong>Trip Planner:</strong> A built-in tool to create step-by-step travel itineraries.</li>
+  <li><strong>Customer Reviews and Ratings:</strong> Travelers can share and read reviews.</li>
+  <li><strong>Local Insights:</strong> Discover hidden gems, local events, and cultural experiences.</li>
+  <li><strong>24/7 Customer Support:</strong> Round-the-clock assistance for bookings and queries.</li>
+</ul>
+
+<h3>👨‍💻 Contributors</h3>
+<ul>
+  <li><a href="https://github.com/tahscene">Tahsin Shuborna</a></li>
+  <li><a href="https://github.com/NamTas">Namira Tasnim</a></li>
+  <li><a href="https://github.com/azizulhakim185">Azizul Hakim</a></li>
+  <li><a href="https://github.com/tashfia-eifa">Tashfia Shahid</a></li>
+</ul>
